@@ -14,4 +14,15 @@ assignees: ""
 
 **Forventet resultat**
 
+**Programversion**
+
+Hvilken version af Be26 benytter du?
+
+**Platform**
+
+Afvikles Be26 på:
+- [ ] Web
+- [ ] Windows
+- [ ] macOS
+
 **Ekstra information**
