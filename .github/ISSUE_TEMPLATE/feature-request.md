@@ -11,4 +11,3 @@ assignees: ""
 **Hvorfor er det nyttigt?**
 
 **Evt. forslag til løsning**
-

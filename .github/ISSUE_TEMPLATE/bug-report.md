@@ -15,4 +15,3 @@ assignees: ""
 **Forventet resultat**
 
 **Ekstra information**
-
